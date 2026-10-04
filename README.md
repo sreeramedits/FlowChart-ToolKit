@@ -1,5 +1,8 @@
 # FlowChart-ToolKit
 Complete Toolkit for after effects for creating flow with different shapes, lines and arrow heads.
+<p align="center">
+  <img src="image.png" alt="After Effects Script UI Panel">
+</p>
 
 #Installation
 
